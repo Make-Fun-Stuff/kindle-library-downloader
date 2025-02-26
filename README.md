@@ -1,6 +1,6 @@
 ## Prerequisites
 
-- Currently this only works on the Amazon sites in these countries: US, UK, CA, DE, AU, JP
+- Currently this only works on the Amazon sites in these countries: US, UK, CA, DE, AU, JP, BR
 - You must have at least one Kindle device linked to your account (this device is not used in the process of this script, but Amazon won't let you download anything if you don't have a device).
 - I've only tested this in Chrome. It should work in any browser that supports TamperMonkey, but I can't promise anything.
 
