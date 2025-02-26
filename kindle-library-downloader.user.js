@@ -5,6 +5,7 @@
 // @description  Download your Kindle library to your computer
 // @author       MakeFunStuff
 // @match        https://www.amazon.com/*/digital-console/contentlist/booksAll/*
+// @match        https://www.amazon.in/*/digital-console/contentlist/booksAll/*
 // @match        https://www.amazon.com/*/*/digital-console/contentlist/booksAll/*
 // @match        https://www.amazon.co.uk/*/digital-console/contentlist/booksAll/*
 // @match        https://www.amazon.co.uk/*/*/digital-console/contentlist/booksAll/*
